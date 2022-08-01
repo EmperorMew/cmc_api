@@ -10,4 +10,5 @@
 
 * Add your API_Key
 * Set the rate limit
-* Remove "dao" placeholder and enter your desired tag. 
+* Remove "dao" placeholder and enter your desired tag
+* A list of addresses that match the criteria will be returned
